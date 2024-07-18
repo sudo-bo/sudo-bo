@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px" font-size="10px" letter-spacing="1px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="975px" height="550px">
   <style>
     .keyColor {fill: #ffa657;}
     .valueColor {fill: #a5d6ff;}
@@ -11,7 +11,7 @@
 
   <rect width="970px" height="530px" fill="#161b22" rx="15"/>
 
-  <text x="10" y="100" fill="#c9d1d9" class="ascii">
+  <text x="10" y="100" fill="#c9d1d9" class="ascii" font-size="10px" letter-spacing="1px">
     <tspan x="10" y="100">                     @@@@    @@@*                            </tspan>
     <tspan x="10" y="110">                -@@@    @@ @@     }@                         </tspan>
     <tspan x="10" y="120">            @@@@     @@*      @@@@@@   @@                    </tspan>
