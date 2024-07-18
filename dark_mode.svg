@@ -48,27 +48,27 @@
   </text>
 
   <text x="390" y="30" fill="#c9d1d9" font-family="Andale Mono,AndaleMono,Consolas,monospace" font-size="16px">
-    <tspan x="390" y="30">bodrye@kamdem</tspan>
+    <tspan x="390" y="30">boe@kam</tspan>
     <tspan x="390" y="50">——————</tspan>
     <tspan x="390" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10, Linux</tspan>
-    <tspan x="390" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">5 years</tspan>
+    <tspan x="390" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">Infinity and ....</tspan>
     <tspan x="390" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">The City College of New York</tspan><tspan class="commentColor"> #CCNY</tspan>
     <tspan x="390" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Engineering</tspan><tspan class="commentColor"> #CUNY</tspan>
     <tspan x="390" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode, PyCharm</tspan>
-    <tspan x="390" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, JavaScript, C++</tspan>
+    <tspan x="390" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, JavaScript, C++, C#, Java</tspan>
     <tspan x="390" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, SQL, JSON</tspan>
     <tspan x="390" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, French</tspan>
-    <tspan x="390" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Web Development, Machine Learning</tspan>
-    <tspan x="390" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Raspberry Pi projects</tspan>
-    <tspan x="390" y="330" class="keyColor">Contact</tspan>:
+    <tspan x="390" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Playlist Generation, Browser Game Scripting</tspan>
+    <tspan x="390" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Fun</tspan>: <tspan class="valueColor">Chess, LeetCode</tspan>
+    <tspan x="390" y="330" class="keyColor">Even More</tspan>:
     <tspan x="390" y="350">——————</tspan>
-    <tspan x="390" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">bodrye.kamdem@example.com</tspan>
-    <tspan x="390" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">BodryeKamdem</tspan>
-    <tspan x="390" y="410" class="keyColor">Discord</tspan>: <tspan class="valueColor">bodryekamdem</tspan>
+    <tspan x="390" y="370" class="keyColor">Frameworks</tspan>: <tspan class="valueColor">.NET, Next.js, Express.js, FastAPI, Django</tspan>
+    <tspan x="390" y="390" class="keyColor">Tools</tspan>: <tspan class="valueColor">Docker, Git, AWS</tspan>
+    <tspan x="390" y="410" class="keyColor">Database</tspan>: <tspan class="valueColor">SQL, PostgreSQL, MongoDB</tspan>
     <tspan x="390" y="450" class="keyColor">GitHub Stats</tspan>:
     <tspan x="390" y="470">——————</tspan>
-    <tspan x="390" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">30</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">45</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">3,500</tspan> | <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">120</tspan>
-    <tspan x="390" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">25</tspan> | <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">200,000</tspan> (<tspan class="addColor">250,000++</tspan>, <tspan class="delColor">50,000--</tspan>)
+    <tspan x="390" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">82</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">12</tspan>}  | <tspan class="keyColor">Commits</tspan>: <tspan class="valueColor">1,200</tspan> 
+    <tspan x="390" y="510" class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">80,216</tspan> (<tspan class="addColor">110,203++</tspan>, <tspan class="delColor">29,987--</tspan>)
   </text>
 
 </svg>
