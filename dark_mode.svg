@@ -28,7 +28,7 @@
     <tspan x="10" y="230">    @@@@@@@                @@@@@@@@@@  @  @@@@@@@    @  )@   </tspan>
     <tspan x="10" y="240">                                       @@@    @@ )@ @@@@  @@ </tspan>
     <tspan x="10" y="250">     )  @   @   @@@@@       *}      @@@@@@@@@@@  @@@@   @@   </tspan>
-    <tspan x="10" y="260">        @}                                        @@@    @@@  </tspan>
+    <tspan x="10" y="260">        @}                                        @@@    @@@ </tspan>
     <tspan x="10" y="270">         )@@   *@@  @@@           @            * @   }@    @ </tspan>
     <tspan x="10" y="280">           @@@     @@@@@@@@@}    @@ @@       *@  -     }-@@  </tspan>
     <tspan x="10" y="290">              @@   @@  @@@               } }     )@  }@@  @@ </tspan>
@@ -42,10 +42,9 @@
     <tspan x="10" y="370">                         @  @@@@@@@@@@  @@  @@               </tspan>
     <tspan x="10" y="380">                         @@@@@@ @@@@}   *@ )      -          </tspan>
     <tspan x="10" y="390">                          @@             @)@@@@              </tspan>
-    <tspan x="10" y="400">                             @@@@@@@@            @@@@@       </tspan>
-    <tspan x="10" y="410">                        @@@@@@@@@@@@@      @@@@@ @      @@@ </tspan>
+    <tspan x="10" y="400">                             @@@@@@@@                        </tspan>
+    <tspan x="10" y="410">                        @@@@@@@@@@@@@      @@@@@ @           </tspan>
     <tspan x="10" y="420">                  @@@@@@@@@@  @@  }@@@@@@@@@    @@ -   } @@@ </tspan>
-    <tspan x="10" y="430">           @@@@@@@@@@@@@@@@@@@@            @       @@  @@    </tspan>
   </text>
 
   <text x="390" y="30" fill="#c9d1d9" font-family="Andale Mono,AndaleMono,Consolas,monospace" font-size="16px">
